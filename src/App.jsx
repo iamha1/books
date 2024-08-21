@@ -10,7 +10,7 @@ function App() {
   const [books, setBooks] = useState([]);
 
   const createBook = (title) => {
-    console.log("Need to add Book with: ",title);
+    console.log("Need to add Book with: ", title);
 
   }
 
@@ -19,9 +19,7 @@ function App() {
   <div>
     BOOKS
     <BookCreate onCreate={createBook} />
-    <BookEdit />
-    <BookList />
-    <BookShow />
+  
   </div>        
   )
 }
