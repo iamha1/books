@@ -20,6 +20,7 @@ function App() {
     BOOKS
     <BookCreate onCreate={createBook} />
     <BookEdit />
+    <BookShow />
   
   </div>        
   )
