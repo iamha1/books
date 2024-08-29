@@ -1,10 +1,7 @@
-# React + Vite
+# This app was built with React + Vite
 
 https://iamha1.github.io/books/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- This app allows you to search for book title, edit the book title, and delete the book.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2024-08-29 at 16 08 25](https://github.com/user-attachments/assets/c832d55e-d422-48bb-a95e-6531fcde96de)
